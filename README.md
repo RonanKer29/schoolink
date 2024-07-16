@@ -43,10 +43,11 @@ Bridging the Communication Gap Between Teachers and Parents
 ## 👥 Contributors
 
 <ul>
-<li><strong>Olivia Rochat</strong></li>
-<li><strong>Omar Haizoun</strong></li>
-<li><strong>Mustafa Arslan</strong></li>
-<li><strong>Ronan Kervella</strong></li>
+ <li> <a href ="https://github.com/OliAivRo">Olivia Rochat</a></li>
+  <li> <a href ="https://github.com/Raging27">Omar Haizoun</a></li>
+  <li> <a href ="https://github.com/esat1265">Mustafa Arslan</a></li>
+ <li> <a href ="https://github.com/RonanKer29">Ronan Kervella</a></li>
+
 
 </ul>
 
